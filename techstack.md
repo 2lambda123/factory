@@ -3,20 +3,20 @@
 ## Tech Stack
 2lambda123/factory is built on the following main stack:
 
-- [Gradle](https://www.gradle.org/) – Java Build Tools
-- [Java](https://www.java.com) – Languages
-- [Groovy](https://groovy-lang.org/) – Languages
-- [PostgreSQL](http://www.postgresql.org/) – Databases
-- [Liquibase](https://www.liquibase.com) – Database Tools
-- [Spring Framework](https://spring.io/projects/spring-framework) – Frameworks (Full Stack)
 - [Gherkin](https://cucumber.io/docs/gherkin/reference/) – Languages
-- [Heroku Postgres](https://www.heroku.com/postgres) – PostgreSQL as a Service
-- [Codecov](https://codecov.io/) – Code Coverage
+- [Groovy](https://groovy-lang.org/) – Languages
+- [Java](https://www.java.com) – Languages
+- [Spring Framework](https://spring.io/projects/spring-framework) – Frameworks (Full Stack)
 - [H2 Database](http://www.h2database.com/) – Databases
-- [Apache Camel](https://camel.apache.org/) – Platform as a Service
-- [Spock Framework](http://spockframework.org/) – Testing Frameworks
+- [Heroku Postgres](https://www.heroku.com/postgres) – PostgreSQL as a Service
+- [Liquibase](https://www.liquibase.com) – Database Tools
+- [PostgreSQL](http://www.postgresql.org/) – Databases
+- [Codecov](https://codecov.io/) – Code Coverage
 - [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
+- [Gradle](https://www.gradle.org/) – Java Build Tools
+- [Spock Framework](http://spockframework.org/) – Testing Frameworks
 - [Travis CI](http://travis-ci.com/) – Continuous Integration
+- [Apache Camel](https://camel.apache.org/) – Platform as a Service
 
 Full tech stack [here](/techstack.md)
 
@@ -26,20 +26,20 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 2lambda123/factory is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/975/gradlephant-social-black-bg.png' alt='Gradle'/> [Gradle](https://www.gradle.org/) – Java Build Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/995/K85ZWV2F.png' alt='Java'/> [Java](https://www.java.com) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/997/default_7ff5fcd857f42ad25149f659693d8930bffddf14.png' alt='Groovy'/> [Groovy](https://groovy-lang.org/) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1028/ASOhU5xJ.png' alt='PostgreSQL'/> [PostgreSQL](http://www.postgresql.org/) – Databases
-- <img width='25' height='25' src='https://img.stackshare.io/service/1398/y1As8_s5_400x400.jpg' alt='Liquibase'/> [Liquibase](https://www.liquibase.com) – Database Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/2006/spring-framework-project-logo.png' alt='Spring Framework'/> [Spring Framework](https://spring.io/projects/spring-framework) – Frameworks (Full Stack)
 - <img width='25' height='25' src='https://img.stackshare.io/service/2460/default_aff27c02548fadb1b7e6f85a2b0da1c5dca5cc08.png' alt='Gherkin'/> [Gherkin](https://cucumber.io/docs/gherkin/reference/) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/2516/original.png' alt='Heroku Postgres'/> [Heroku Postgres](https://www.heroku.com/postgres) – PostgreSQL as a Service
-- <img width='25' height='25' src='https://img.stackshare.io/service/2673/Codecov_Mark_Circle_Pink.png' alt='Codecov'/> [Codecov](https://codecov.io/) – Code Coverage
+- <img width='25' height='25' src='https://img.stackshare.io/service/997/default_7ff5fcd857f42ad25149f659693d8930bffddf14.png' alt='Groovy'/> [Groovy](https://groovy-lang.org/) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/995/K85ZWV2F.png' alt='Java'/> [Java](https://www.java.com) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/2006/spring-framework-project-logo.png' alt='Spring Framework'/> [Spring Framework](https://spring.io/projects/spring-framework) – Frameworks (Full Stack)
 - <img width='25' height='25' src='https://img.stackshare.io/service/3105/h2-logo_square_400x400.png' alt='H2 Database'/> [H2 Database](http://www.h2database.com/) – Databases
-- <img width='25' height='25' src='https://img.stackshare.io/service/3276/xWt1RFo6_400x400.jpg' alt='Apache Camel'/> [Apache Camel](https://camel.apache.org/) – Platform as a Service
-- <img width='25' height='25' src='https://img.stackshare.io/service/5548/UB74SoK2_400x400.png' alt='Spock Framework'/> [Spock Framework](http://spockframework.org/) – Testing Frameworks
+- <img width='25' height='25' src='https://img.stackshare.io/service/2516/original.png' alt='Heroku Postgres'/> [Heroku Postgres](https://www.heroku.com/postgres) – PostgreSQL as a Service
+- <img width='25' height='25' src='https://img.stackshare.io/service/1398/y1As8_s5_400x400.jpg' alt='Liquibase'/> [Liquibase](https://www.liquibase.com) – Database Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/1028/ASOhU5xJ.png' alt='PostgreSQL'/> [PostgreSQL](http://www.postgresql.org/) – Databases
+- <img width='25' height='25' src='https://img.stackshare.io/service/2673/Codecov_Mark_Circle_Pink.png' alt='Codecov'/> [Codecov](https://codecov.io/) – Code Coverage
 - <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
+- <img width='25' height='25' src='https://img.stackshare.io/service/975/gradlephant-social-black-bg.png' alt='Gradle'/> [Gradle](https://www.gradle.org/) – Java Build Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/5548/UB74SoK2_400x400.png' alt='Spock Framework'/> [Spock Framework](http://spockframework.org/) – Testing Frameworks
 - <img width='25' height='25' src='https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png' alt='Travis CI'/> [Travis CI](http://travis-ci.com/) – Continuous Integration
+- <img width='25' height='25' src='https://img.stackshare.io/service/3276/xWt1RFo6_400x400.jpg' alt='Apache Camel'/> [Apache Camel](https://camel.apache.org/) – Platform as a Service
 
 Full tech stack [here](/techstack.md)
 
@@ -50,7 +50,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [2lambda123/factory](https://github.com/2lambda123/factory)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|29<br/>Tools used|01/09/24 <br/>Report generated|
+|29<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -213,7 +213,7 @@ Full tech stack [here](/techstack.md)
 |[javax.xml.bind:jaxb-api](https://github.com/javaee/jaxb-spec)|v2.3.0|06/27/18|Michał Michaluk |CDDL-1.1,CNRI-Python-GPL-Compatible|N/A|
 |[net.bytebuddy:byte-buddy](http://bytebuddy.net)|v1.8.12|06/27/18|Michał Michaluk |Apache-2.0|N/A|
 |[org.liquibase:liquibase-core](http://www.liquibase.org/liquibase-root/liquibase-dist)|v3.6.1|06/27/18|Michał Michaluk |Apache-2.0|[CVE-2022-0839](https://github.com/advisories/GHSA-jvfv-hrrc-6q72) (Critical)|
-|[org.postgresql:postgresql](http://jdbc.postgresql.org)|v42.2.2|06/27/18|Michał Michaluk |BSD-2-Clause|[CVE-2022-21724](https://github.com/advisories/GHSA-v7wg-cpwc-24m4) (High)<br/>[CVE-2022-31197](https://github.com/advisories/GHSA-r38f-c4h4-hqq2) (High)<br/>[CVE-2020-13692](https://github.com/advisories/GHSA-88cc-g835-76rp) (High)<br/>[](https://github.com/advisories/GHSA-673j-qm5f-xpv8) (Moderate)<br/>[CVE-2022-41946](https://github.com/advisories/GHSA-562r-vg33-8x8h) (Moderate)<br/>[CVE-2022-26520](https://github.com/advisories/GHSA-727h-hrw8-jg8q) (Low)|
+|[org.postgresql:postgresql](http://jdbc.postgresql.org)|v42.2.2|06/27/18|Michał Michaluk |BSD-2-Clause|[CVE-2024-1597](https://github.com/advisories/GHSA-24rp-q3w6-vc56) (Critical)<br/>[](https://github.com/advisories/GHSA-xfg6-62px-cxc2) (Critical)<br/>[CVE-2022-31197](https://github.com/advisories/GHSA-r38f-c4h4-hqq2) (High)<br/>[CVE-2022-21724](https://github.com/advisories/GHSA-v7wg-cpwc-24m4) (High)<br/>[CVE-2020-13692](https://github.com/advisories/GHSA-88cc-g835-76rp) (High)<br/>[](https://github.com/advisories/GHSA-673j-qm5f-xpv8) (Moderate)<br/>[CVE-2022-41946](https://github.com/advisories/GHSA-562r-vg33-8x8h) (Moderate)<br/>[CVE-2022-26520](https://github.com/advisories/GHSA-727h-hrw8-jg8q) (Low)|
 |[org.projectlombok:lombok](https://projectlombok.org)|v1.18.0|06/27/18|Michał Michaluk |MIT|N/A|
 |[org.spockframework:spock-core](http://spockframework.org)|v1.1|06/27/18|Michał Michaluk |Apache-2.0|N/A|
 |[org.spockframework:spock-spring](http://spockframework.org)|v1.1|06/27/18|Michał Michaluk |Apache-2.0|N/A|
